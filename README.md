@@ -1,7 +1,7 @@
 # Andrew Kasten
 
 - Phone: +1 858 345 0139
-- Email: [andrewkasten@proton.me](mailto:andrewkasten@proton.me)
+- Email: [andrewjkasten@gmail.com](mailto:andrewjkasten@gmail.com)
 - Location: Utah, 84062
 - Website: [andrewkasten.cv](https://andrewkasten.cv/)
 
